@@ -1,0 +1,16 @@
+.Heading
+{
+    width:33%;
+    display: inline-block;
+  text-align: center;
+  font-size:130%;
+  margin-top:2%;
+  font-weight:bold;
+  }
+  .Nouser
+  {
+color:gray;
+opacity: 0.8;
+text-align: center
+
+  }

@@ -1,0 +1,53 @@
+.Back
+{
+background-color:rgb(41, 137, 216);
+    margin-left: 2%;
+    color:white;
+    display:inline-block;
+    text-decoration: none;
+    padding:5px 15px;
+    border-radius: 3px;
+    cursor:pointer;
+    font-size:120%;
+
+}
+.Form
+{
+    margin-left:2%;
+    margin-top:2%;
+}
+.Label
+{
+    font-size:120%;
+    font-weight: bold;
+    color:rgb(91, 119, 91);
+}
+.Input
+{
+    margin-bottom: 10px;
+}
+.Addcontact
+{
+     background-color:rgb(24, 138, 43);
+   
+    color:white;
+    display:inline-block;
+    text-decoration: none;
+    padding:5px 15px;
+    border-radius: 3px
+}
+.Show
+{
+    font-size:140%;
+    color:gray;
+    margin-left:2%
+}
+
+.Subs
+{
+color:blue;
+margin-bottom:0;
+opacity:0.8;
+margin-left:2%;
+
+}

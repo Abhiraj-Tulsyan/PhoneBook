@@ -1,0 +1,27 @@
+.Buttonspace
+{
+    width:33%;
+display:inline-block;
+}
+.Name
+{
+    width:33%;
+    display:inline-block;
+}
+.Number
+{
+    display:inline-block;
+    width:33%
+}
+.Deletebutton
+{
+background-color:rgb(192, 23, 23);
+    margin-left: 50%;
+    color:white;
+    display:inline-block;
+    text-decoration: none;
+    padding:2px 10px;
+    border-radius: 3px;
+    cursor:pointer
+
+}
